@@ -29,8 +29,3 @@
 
 ![50 most popular books](/readme_imgs/top50books.png)
 
-## Further Plans
-* Since the user can only enter the books which are present in the dataset as it is, this leads to difficulty in usage. This problem could be solved by improving the search engine.
-* Show the book searched too before the recommendations.
-* Include more books which are available on Amazon by webscraping.
-* Try content based filtering too!!
