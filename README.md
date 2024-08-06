@@ -20,13 +20,14 @@
       * It calculates the similarity of any two books based on cosine similarity(which is basically the norm of two vectors in space).
       * Hence for every book, we will show 4 books which have the highest cosine similarity except itself. These books will be recommended to the user.
 
-  
+  ![Based on the input Book Title, we get 4 most similar books as recommendation](/readme_imgs/getbookreco.png)
 
 2. Top 50 popular books :
    * For showing the top 50 books, we will sort the books firstly on the basis of ratings.
    * The books to be shown must have voting count above the certain threshold given in the *notebook*. In this project, the threshold is 250 votes.
    * In the end, the filtered books are sorted by ratings in desceding order.
 
+![50 most popular books](/readme_imgs/top50books.png)
 
 ## Further Plans
 * Since the user can only enter the books which are present in the dataset as it is, this leads to difficulty in usage. This problem could be solved by improving the search engine.
