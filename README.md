@@ -6,6 +6,12 @@
 * It shows 4 books which are most related to the input book title.
 * You can also find the 50 most popular books which pass the condition of certain number of votes.
 
+### Libraries Required
+1. Numpy
+2. Pandas
+3. Scikit-Learn
+4. Flask
+
 ### Dataset
 * The following dataset has been used to build this project :[Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
 * The dataset consists of 3 .csv files :
